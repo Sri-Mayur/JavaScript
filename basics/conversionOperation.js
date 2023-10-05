@@ -24,3 +24,23 @@ console.log(booleanIsLoggedIn);
 // true => 1; false => 0
 //"" => False
 // "Mayur" => True
+
+
+// ************************* Operations **********
+
+console.log(2+2);
+console.log(2-2);
+console.log(2%2);
+console.log(2**2);
+//etc etc
+
+console.log("1"+2); //12
+console.log(1+"2"); //12
+console.log("1"+2+3); //123
+console.log(1+2+"3"); //33
+
+console.log(+true); //1
+//console.log(true+); //error
+
+
+
